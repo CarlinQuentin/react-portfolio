@@ -1,10 +1,10 @@
 import React, { Component} from 'react';
+import './Projects.css'
 
 class Projects extends Component {
     render() {
         return(
-            <div>
-                This is the Projects text!?!?!?!?!?!
+            <div class='cover'>
             </div>
         )
     }
