@@ -6,3 +6,28 @@
     border-radius: 0 0 0 0;
     height: 100vh;
 }
+
+.thisstuff{
+    padding-top: 20vh;
+}
+
+.contact{
+    background-image: linear-gradient(to right, rgb(119, 26, 250), rgb(119, 26, 167));
+    width: 33vw;
+    text-align: center;
+    margin-left: 33vw;
+}
+
+.control-group{
+    display: inline-block;
+    padding-left: 5%;
+    padding-top: 5%; 
+}
+
+.messages{
+    width: 90%; 
+}
+
+.thisthing{
+    padding-top: 5%;
+}

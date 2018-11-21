@@ -8,6 +8,8 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-addons-transition-group": "^15.6.2",
     "react-codepen": "^0.1.0",
     "react-dom": "^16.6.3",
     "react-icons": "^2.2.7",

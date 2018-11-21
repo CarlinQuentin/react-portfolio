@@ -7,28 +7,34 @@
     height: 100vh;
 }
 
-.me{
-    width: 25vw;
-    background-image: linear-gradient(to right, rgb(119, 26, 250), rgb(119, 26, 167));
-    /* margin-left: 33vw; */
-    /* margin-top: 10vh; */
-    font-size: 1.2em;
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    padding: 1.5%;
-}
-
 h1{
     text-align: center;
     color: white;
     font-family: 'Courgette', cursive;
 }
 
+.grid{
+    display: grid;
+    /* grid-template-rows: auto; */
+    grid-template-columns: auto auto;
+}
+
+.me{
+    width: 25vw;
+    background-image: linear-gradient(to right, rgb(119, 26, 250), rgb(119, 26, 167));
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 1.5%;
+    overflow: scroll;
+}
+
 .img {
     width: 25vw;
     height: 55vh;
     border: 3px solid rgb(119, 26, 167);
-    /* margin-top: 10vh; */
-    /* margin-left: 10vw; */
+    margin-top: 3%;
+    margin-left: 14em;
 }
+
