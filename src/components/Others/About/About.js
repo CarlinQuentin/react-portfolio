@@ -4,6 +4,7 @@ import img from '../assets/pics/CarlinQuentin.jpeg';
 // import 'bootstrap/dist/css/bootstrap.css';
 import { Container,  Row, Col } from 'reactstrap';
 
+
 class About extends Component {
     render() {
         return(

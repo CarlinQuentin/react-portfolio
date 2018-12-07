@@ -1,3 +1,28 @@
 .footer{
-    background-color: white;
+    background-color: rgb(119, 26, 250);
+    color: white;
+    margin-top: 100vh;
+    position: relative; 
+    height: 7vh;
+}
+
+.link{
+    font-size: 250%;
+    color: rgb(0, 116, 187);
+    padding: 10px;
+    float: right;
+}
+
+.git{
+    font-size: 250%;
+    color: black;
+    padding: 10px;
+    float: right;
+}
+
+.words{
+    font-weight: bold;
+    position: absolute;
+    margin-left: 84%;
+    margin-top: 2.2vh;
 }

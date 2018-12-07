@@ -2,10 +2,10 @@ import React from 'react';
 import './home.css';
 import { Route, Link, Switch } from 'react-router-dom';
 
-import Landing from '../Pages/Landing';
-import About from '../About/About';
-import Projects from '../Projects/Projects';
-import Contact from '../Contact/Contact';
+import Landing from '../Others/Pages/Landing';
+import About from '../Others/About/About';
+import Projects from '../Others/Projects/Projects';
+import Contact from '../Others/Contact/Contact';
 
 const Home = () => (
     <div className='navbar'>

@@ -5,6 +5,8 @@
     background-size: cover;
     border-radius: 0 0 0 0;
     height: 100vh;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
 }
 
 .grid2 {
@@ -32,4 +34,8 @@ a {
 img {
     width: 15em;
     height: 27.8vh;
+}
+
+a:hover{
+    color: rgb(119, 26, 167) !important;
 }
