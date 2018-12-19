@@ -1,7 +1,7 @@
 .navbar{
     width: 100vw;
     background-color: rgb(119, 26, 167);
-    height: 5vh;
+    height: 100%;
 }
 
 .navbar-list-styling {
@@ -12,11 +12,13 @@
 .navabar-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    margin: 0;
 }
 
 .listen{
     display: inline;
     margin-left: 15%;
+    padding: 0;
 }
 
 
